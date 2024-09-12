@@ -1,149 +1,259 @@
-<h1 align="center">
-  😍 + 🚀
-  <br>Spaceship Section<br>
-</h1>
+Death-Star-AI-Prompt_Patcher9.4.2.3.1
+* Add files via upload
 
-<h4 align="center">
-  A <a href="https://template.com" target="_blank">Foobar</a> section for Spaceship prompt
-</h4>
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-<p align="center">
-  <a href="https://github.com/spaceship-prompt/spaceship-section/releases">
-    <img src="https://img.shields.io/github/v/release/spaceship-prompt/spaceship-section.svg?style=flat-square"
-      alt="GitHub Release" />
-  </a>
+* Create devcontainer.json
 
-  <a href="https://github.com/spaceship-prompt/spaceship-section/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/spaceship-prompt/spaceship-gradle/ci.yaml?style=flat-square"
-      alt="GitHub Workflow Status" />
-  </a>
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-  <a href="https://twitter.com/SpaceshipPrompt">
-    <img src="https://img.shields.io/badge/twitter-%40SpaceshipPrompt-00ACEE.svg?style=flat-square"
-      alt="Spaceship Twitter" />
-  </a>
+* Death✨Star✨AI-devcontainer.json
 
-  <a href="https://discord.gg/NTQWz8Dyt9">
-    <img
-      src="https://img.shields.io/discord/859409950999707668?label=discord&logoColor=white&style=flat-square"
-      alt="Chat on Discord"
-    />
-  </a>
-</p>
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-Current Foobar version, through foobar (`😍`).
+* Update README.md
 
-## Installing
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-You need to source this plugin somewhere in your dotfiles. Here's how to do it with some popular tools:
+* Update README.md
 
-### [Oh-My-Zsh]
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-Execute this command to clone this repo into Oh-My-Zsh plugin's folder:
+* Update README.md
 
-```zsh
-git clone https://github.com/spaceship-prompt/spaceship-section.git $ZSH_CUSTOM/plugins/spaceship-section
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-Include `spaceship-section` in Oh-My-Zsh plugins list:
+* Update README.md
 
-```zsh
-plugins=($plugins spaceship-section)
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### [zplug]
+* Add files via upload
 
-```zsh
-zplug "spaceship-prompt/spaceship-section"
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### [antigen]
+* Delete DeathStar.sh-main.zip
 
-```zsh
-antigen bundle "spaceship-prompt/spaceship-section"
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### [antibody]
+* Delete internal.ubuntu-22.04.json
 
-```zsh
-antibody bundle "spaceship-prompt/spaceship-section"
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### [zinit]
+* Update README.md
 
-```zsh
-zinit light "spaceship-prompt/spaceship-section"
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### [zgen]
+* Delete spring-boot-docker (2.3).zip
 
-```zsh
-zgen load "spaceship-prompt/spaceship-section"
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### [sheldon]
+* Add files via upload
 
-```toml
-[plugins.spaceship-section]
-github = "spaceship-prompt/spaceship-section"
-```
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-### Manual
+* Create Patched.main.yml
 
-If none of the above methods works for you, you can install Spaceship manually.
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-1. Clone this repo somewhere, for example to `$HOME/.zsh/spaceship-section`.
-2. Source this section in your `~/.zshrc`.
+* Delete workspace.code-workspace
 
-### Example
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-```zsh
-mkdir -p "$HOME/.zsh"
-git clone --depth=1 https://github.com/spaceship-prompt/spaceship-section.git "$HOME/.zsh/spaceship-section"
-```
+* Update README.md
 
-For initializing prompt system add this to your `.zshrc`:
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-```zsh title=".zshrc"
-source "~/.zsh/spaceship-section/spaceship-section.plugin.zsh"
-```
+* Update issue templates
 
-## Usage
+* Update README.md
 
-After installing, add the following line to your `.zshrc` in order to include Ember section in the prompt:
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-```zsh
-spaceship add foobar
-```
+* Update README.md
 
-## Options
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-This section is shown only in directories within a foobar context.
+* Update README.md
 
-| Variable                   |              Default               | Meaning                              |
-| :------------------------- | :--------------------------------: | ------------------------------------ |
-| `SPACESHIP_FOOBAR_SHOW`   |               `true`               | Show current section                 |
-| `SPACESHIP_FOOBAR_PREFIX` | `$SPACESHIP_PROMPT_DEFAULT_PREFIX` | Prefix before section                |
-| `SPACESHIP_FOOBAR_SUFFIX` | `$SPACESHIP_PROMPT_DEFAULT_SUFFIX` | Suffix after section                 |
-| `SPACESHIP_FOOBAR_SYMBOL` |               `😍·`                | Character to be shown before version |
-| `SPACESHIP_FOOBAR_COLOR`  |             `yellow`               | Color of section                     |
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-## Contributing
+* Update README.md
 
-First, thanks for your interest in contributing!
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-Contribute to this repo by submitting a pull request. Please use [conventional commits](https://www.conventionalcommits.org/), since this project adheres to [semver](https://semver.org/) and is automatically released via [semantic-release](https://github.com/semantic-release/semantic-release).
+* Update README.md
 
-## License
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-MIT © [Name Surname](http://yourwebsite.com)
+* Update README.md
 
-<!-- References -->
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
 
-[Oh-My-Zsh]: https://ohmyz.sh/
-[zplug]: https://github.com/zplug/zplug
-[antigen]: https://antigen.sharats.me/
-[antibody]: https://getantibody.github.io/
-[zinit]: https://github.com/zdharma/zinit
-[zgen]: https://github.com/tarjoilija/zgen
-[sheldon]: https://sheldon.cli.rs/
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Add files via upload
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Delete JetBrainsMono-2.304.zip
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Delete win-sshproxy.exe
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Add files via upload
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+
+* Pending changes exported from your codespace
+
+* Update README.md
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Update playground-Nano✨Death✨Star✨AI-2024-09-03 (2).json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Update DeathStar-AI-devcontainer.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Create dependabot.yml
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* pull secret
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Add files via upload
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* samsung_a03su_TP1A.220624.014
+
+samsung_a03su_TP1A.220624.014
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Update DeathStar-AI-devcontainer.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Death✨Star✨AI✨Prompt.py
+
+Death✨Star✨AI✨Prompt.py
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Rename .devcontainer/devcontainer.json to Death_Star-container.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Update Death_Star-container.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Remoteshell Scriptor-Container.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* samsung_a03su_TP1A.220624.014
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* samsung_a03su_TP1A.220624.014
+
+samsung_a03su_TP1A.220624.014
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Update Nano✨Death✨Star✨AI-devcontainer.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Update playground-Nano.Death.Star.AI-2024-09-03.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Death_Star_Prompt-container.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Remote-Shell_Scriptor-container.json
+
+Remote-Shell_Scriptor-container
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Create Remote SDK_Prompt.json
+
+Create Remote SDK_Prompt.json
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Create Death-Star-AI-Prompt_Patcher
+
+gh repo clone Nano-Death-Star-AI/Death-Star-AI-Prompt_Patcher
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* @nanosudors's Patched_Container - Status board
+
+@nanosudors's Patched_Container - Status board
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Create Azure Resource Manager-main.yml
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Delete Death✨Star✨AI✨Prompt-1.py
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* UpdateDeath-Star-AI-Prompt_Patcher
+
+Death-Star-AI-Prompt_Patcher
+
+* Delete @nanosudors's Patched_Container - Status board.tsv
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+* Delete Nano✨Death✨Star✨AI.code-workspace
+
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
+
+---------
+
+Signed-off-by: Nano🫥Sudoer <66500657+nanosudors@users.noreply.github.com>
+Signed-off-by: Nano🫥Sudor <66500657+nanosudors@users.noreply.github.com>
